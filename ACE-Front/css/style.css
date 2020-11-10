@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600&display=swap');
+
+.font-ubuntu{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.font-quicksand{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.font-quicksand-bold{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    color: rgb(42, 23, 95);
+}
+
+.galaxy-bg{
+    background: #0F2027;  
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+}
+
+.purple-bg{
+    background: #0f0c29; 
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+}
+.footer{
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+}
